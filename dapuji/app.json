@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/wifi_station/tianqi/tianqi",
+    "pages/wifi_station/index/index",
+    "pages/image/1.jpg"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#89c8db",
+    "navigationBarBackgroundColor": "#89c8db",
+    "navigationBarTitleText": "自动音频打谱机",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}

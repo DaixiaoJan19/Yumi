@@ -1,0 +1,16 @@
+<!--start.wxml-->
+
+<button class="btn1" bindtap="validate">
+开始打谱吧≧﹏≦</button>
+
+<text id="text">made by    爱听音乐的玉米</text>
+
+
+<radio-group class="radio-group" bindchange="radioChange">
+  <label style="display: flex"  wx:for="{{items}}">
+    <radio value="{{item.name}}" checked="{{item.checked}}"/>{{item.value}}
+  </label>
+</radio-group>
+
+<image style="width:400px; height: 300px;" src="/pages/image/1.jpg"bindload="imageLoad">
+</image>

@@ -1,0 +1,16 @@
+<view>
+<image id="image2" style="width:200px; height: 110px;margin-top: 50rpx;left:0rpx" src="/pages/image/4.jpg"bindload="imageLoad">
+</image>
+</view>
+
+<canvas class = "canvas" id="chart1"
+canvas-id="humidity">
+
+<view>
+<image id="image1"  src="/pages/image/3.jpg" style="width: 88rpx; height: 120rpx;margin-top: 0rpx;left:0rpx">
+</image></view>
+</canvas>
+
+<text id="text1">你是否曾经丢失了一瞬间的灵感？</text>
+<text id="text2">你是否苦于捕捉最美妙的音乐？</text>
+<text id="text3">那就快来找我们吧！玉米们帮你解决一切问题</text>

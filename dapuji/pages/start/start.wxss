@@ -1,0 +1,23 @@
+/* start.wxss */
+
+.btn1{
+  background-color: #89c8db;
+  color: rgb(6, 75, 177);
+  width: 60%;
+  top: 65%
+}
+
+  #text{
+  color: #888888;
+  font-family:PingFangSC-Regular;
+  font-size:20px;
+  top: 80%;
+  left: 17%;
+  position: absolute
+  }
+
+.radio-group{
+  left: 30%;
+  top: 30%;
+  position: absolute
+}
